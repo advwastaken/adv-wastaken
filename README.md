@@ -2,7 +2,6 @@
   <img height="140" width="140" src="https://i.postimg.cc/PJt3JwyW/1655527010193.png" alt="logo"/>
   <br/>
   Hello there, I'm a technical cat????
-  <br/>
     
   <br/>
   <a href="https://github.com/adv-wastaken/github-readme-stats"><img alt="Abhyudaya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adv-wastaken&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
