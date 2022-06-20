@@ -1,7 +1,7 @@
 <p align="center">
   <img height="140" width="140" src="https://i.postimg.cc/PJt3JwyW/1655527010193.png" alt="logo"/>
   <br/>
-  Hello there, I'm a technical cat????
+  Hello there!
   <br/>
     
   <br/>
